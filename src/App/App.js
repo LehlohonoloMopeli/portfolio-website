@@ -4,6 +4,7 @@ import Home from '../Home/Home';
 import About from '../About/About';
 import Skills from '../Skills/Skills'
 import Portfolio from '../Portfolio/Portfolio'
+import Footer from '../Footer/Footer'
 import './App.css';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <About className='app__about'/>
       <Skills className='app__skills'/>
       <Portfolio className='app__portfolio'/>
+      <Footer />
     </div>
   );
 }

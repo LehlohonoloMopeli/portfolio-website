@@ -1,0 +1,13 @@
+.footer {
+    height: 200px;
+    background-color: black;
+}
+
+.footer__title {
+    color: #16e0bd;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 100px !important;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
