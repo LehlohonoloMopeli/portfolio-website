@@ -1,0 +1,20 @@
+.portfolio {
+    margin-top: 40px;
+    width: auto;
+    height: 650px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.portfolio__title {
+    text-align: center;
+    font-weight: 100px !important;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.portfolio__projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
